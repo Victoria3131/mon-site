@@ -1,0 +1,68 @@
+body {background-color: rgb(206, 206, 8);
+      font-family: Arial, sans-serif;}
+
+h1 {color: darkred;
+font-size: 30px;
+text-align: center;
+text-decoration: underline;}
+
+h2{color: darkred;
+font-size: 25px;}
+
+h3{color: darkred;
+font-size: 25px;}
+
+h4 {color: darkred;
+font-size: 25px;}
+
+h5{color: darkred;
+font-size: 25px;}
+
+h6{color: darkred;
+font-size: 25px;}
+
+p{color: darkblue;
+font-size: 20px;}
+
+a{color: darkred;
+}
+
+.important {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.presentation-flex {
+   
+    color: white;
+    border: 2px solid white ;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+    h2{text-decoration: underline;}
+}
+
+
+.photo-presentation{
+    width: 300px;
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+
+
+
+
+nav {
+color: darkred;
+padding: 20px;
+text-align: center;
+margin-bottom: 30px;
+}
+
+
+
